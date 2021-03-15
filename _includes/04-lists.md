@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+<details>
+ <summary>Faves</summary>
+
+  ### MY FAVES
+
+
+  * Cars
+  * Coffee
+  * Bikes
+
+  <hr>
+</details>
