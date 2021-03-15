@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_This code is **BIG TIME**_ <br>
+I love **JAVA** <br>
+I love _Computers_ <br>
